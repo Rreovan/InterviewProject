@@ -1,0 +1,8 @@
+[
+  {
+    "postId": 32,
+    "name": "remember me",
+    "email": "roamer@world.go",
+    "body": "here we should speak some latin."
+  }
+]

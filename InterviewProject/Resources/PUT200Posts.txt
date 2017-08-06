@@ -1,0 +1,7 @@
+[
+  {
+    "userId": 3,
+    "title": "Road to graduation",
+    "body": "Never mistake a single mistake with a final mistake."
+  }
+]

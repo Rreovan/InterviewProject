@@ -1,0 +1,12 @@
+[
+  {
+    "userId": 3,
+    "title": "I am educated",
+    "body": "Tell me and I forget. Teach me and I remember. Involve me and I learn."
+  },
+  {
+    "userId": 45,
+    "title": "you must learn",
+    "body": "A man who asks is a fool for five minutes. A man who never asks is a fool for life."
+  }
+]

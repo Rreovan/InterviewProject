@@ -1,0 +1,14 @@
+[
+  {
+    "postId": 30,
+    "name": "ave maria",
+    "email": "roamer@world.go",
+    "body": "aequitas y veritas"
+  },
+  {
+    "postId": 31,
+    "name": "Mi Familie es Bueno",
+    "email": "rockchild@bermuda.us",
+    "body": "believe in yourself and everything will be ok"
+  }
+]

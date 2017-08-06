@@ -1,0 +1,43 @@
+[{
+    "name": "Random user",
+    "username": "Ruser",
+    "email": "ruser@gmail.com",
+    "address": {
+      "street": "B bker street",
+      "suite": "Suite 351",
+      "city": "Wala wala washington",
+      "zipcode": "33263",
+      "geo": {
+        "lat": "-18.1",
+        "lng": "2.5"
+      }
+    },
+    "phone": "(254)954-1289",
+    "website": "truffles.com",
+    "company": {
+      "name": "truffle",
+      "catchPhrase": "live long and prosper"
+    }
+  },
+{
+    "name": "fixed user",
+    "username": "fuser",
+    "email": "fuser@gmail.com",
+    "address": {
+      "street": "water street",
+      "suite": "Suite 351",
+      "city": "Wala wala washington",
+      "zipcode": "33263",
+      "geo": {
+        "lat": "-18.1",
+        "lng": "2.5"
+      }
+    },
+    "phone": "(254)954-1289",
+    "website": "waffles.com",
+    "company": {
+      "name": "waffle",
+      "catchPhrase": "live long and prosper"
+    }
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "userId": 3,
+    "title": "Education helps",
+    "body": "A penny for your thoughts."
+  }
+]

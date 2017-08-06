@@ -1,0 +1,24 @@
+[
+{
+    "name": "post user",
+    "username": "puser",
+    "email": "puser@gmail.com",
+    "address": {
+      "street": "water street",
+      "suite": "Suite 351",
+      "city": "Wala wala washington",
+      "zipcode": "33263",
+      "geo": {
+        "lat": "-18.1",
+        "lng": "2.5"
+      }
+    },
+    "phone": "(254)954-1289",
+    "website": "walpole.com",
+    "company": {
+      "name": "waffle",
+      "catchPhrase": "rude world"
+    }
+  }
+]
+

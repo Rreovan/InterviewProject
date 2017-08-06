@@ -1,0 +1,8 @@
+[
+  {
+    "postId": 33,
+    "name": "Blessed coder",
+    "email": "roamer@world.go",
+    "body": "insert actual message here"
+  }
+]
